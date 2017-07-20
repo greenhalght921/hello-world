@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository
+
+I'm a Web Developer looking to broaden my horizons
